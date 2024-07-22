@@ -1,1 +1,1 @@
-# covid-19
+# This project is a Python-based application designed to provide up-to-date information about COVID-19. It fetches data from reliable sources, processes it, and displays it in an easy-to-understand format. The application can provide information such as the number of cases, recoveries, deaths, and vaccination statistics.
